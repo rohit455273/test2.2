@@ -1,0 +1,85 @@
+[id*="tab-"] > div:nth-child(1) > div > div > div > div{
+  
+  color: green;
+  
+  
+}
+.foot{
+  
+  background-color: grey;
+}
+`
+
+
+body > div.container-fluid > div.row > div.col-sm-3.well.shinyjqui{
+ 
+ background-color: lightgreen;
+  
+  border-radius: 20px;
+  
+  background-image: url('WWW/ele.jpg');
+  background-size: 10px 20px;
+  
+  box-shadow: 20px 20px 30px;
+
+  background-position: top;
+  
+  
+  
+}
+.head{
+  background-position: left ;
+   background-image: url("leaf.png");
+   background-size: 100px 100px;
+   height: 90px ;
+   color: black;
+   text-align: center;
+   box-shadow: 7px 10px 30px    ;
+   color:yellow;
+   border-radius: 20px;
+  font-size: 20px;
+  background-color: lightgreen;
+  background-repeat: no-repeat;
+  
+  cursor: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Theraphosa_blondi_MHNT.jpg/220px-Theraphosa_blondi_MHNT.jpg"),url(https://image.shutterstock.com/image-photo/close-macro-shot-european-garden-260nw-1495428323.jpg);  
+  
+
+  
+}
+
+
+#tab-4707-2 > div:nth-child(1) > div > div > div > div > div.selectize-input.items.full.has-options.has-items > div{
+  
+  background-color: red;
+  
+}
+#p > div{
+  
+  box-shadow: -20px 20px 30px;
+  
+}
+
+#l{
+  
+  box-shadow: -20px 20px 30px ;
+  
+  border-color: grey;
+  border-width: 50px;
+  
+  
+  
+}
+body{
+  cursor: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Theraphosa_blondi_MHNT.jpg/220px-Theraphosa_blondi_MHNT.jpg"); 
+color:#000 !important; 
+background-color:#a1d9ef !important
+}
+
+[id*="ui-tab"]{
+  
+  
+  opacity: .8;
+  
+  
+  background-color: yellow;
+}
